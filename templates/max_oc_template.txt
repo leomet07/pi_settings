@@ -1,0 +1,4 @@
+over_voltage=8
+arm_freq=2147
+force_turbo=1
+gpu_freq=950
